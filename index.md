@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-[Engineering Technology Research Center of Optoelectronic Technology Appliance, AnHui Province](https://gdzzx.tlu.edu.cn/), Tongling University
-
-No.1335 Cuihu 4th Road, 244061 Tongling, China.
-
+[Engineering Technology Research Center of Optoelectronic Technology Appliance, AnHui Province](https://gdzzx.tlu.edu.cn/), Tongling University\\
+No.1335 Cuihu 4th Road, 244061 Tongling, China.\\
 Email:feixiangdu(AT)tlu(DOT)cn
 
 
@@ -16,6 +14,10 @@ Email:feixiangdu(AT)tlu(DOT)cn
 
 * Medical Image Segmentation: Polyp Segmentation
 * Computer Vision: Object Detection
+
+# Publications
+
+*
 
 
 
