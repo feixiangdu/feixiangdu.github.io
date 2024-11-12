@@ -26,7 +26,7 @@ Email:feixiangdu(AT)tlu(DOT)edu(DOT)cn
   Water, 2024, 16(22): 3248.   
   [[PDF]](https://www.mdpi.com/2073-4441/16/22/3248)
 
-* AuNPs-PDMS Composite Membrane-Based Surface Stress Biosensor for Molecular Detection
+* AuNPs-PDMS Composite Membrane-Based Surface Stress Biosensor for Molecular Detection   
   Dong Zhao, Honglie Chen, Haoyu Wang, Xing Guo, Yang Ge, Jianlong Ji, Shenbo Sang, and **Feixiang Du**<sup>*</sup>    
   Nano, 2023, 18(13): 2350101.   
   [[PDF]](https://www.worldscientific.com/doi/abs/10.1142/S1793292023501011)
