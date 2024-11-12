@@ -17,12 +17,12 @@ Email:feixiangdu(AT)tlu(DOT)edu(DOT)cn
 # Publications
 
 * DoubleAANet: Enhancing Polyp Segmentation with Auxiliary Attention and Area Adaptive  
-**Feixiang DU**, Xinran Yu, Songlin Zhou, Yu Lin, Wei Wang, Ling Xu, Zhongliang Wang<sup>*</sup>, Chao Hu, Nianxia Qian, and Zhenxing Wang
+**Feixiang Du**, Xinran Yu, Songlin Zhou, Yu Lin, Wei Wang, Ling Xu, Zhongliang Wang<sup>*</sup>, Chao Hu, Nianxia Qian, and Zhenxing Wang
   Preprints(2023)   
   [[PDF]](https://www.preprints.org/manuscript/202309.1326/v1)
 
 * Water Supply Pipeline Failure Evaluation Model Based on Particle Swarm Optimization Neural Network
-Lingchun Zhang, Haiming Jiang, Hanyu Cao, Rui Cheng, Junxi Zhang, **Feixiang Du**<sup>*</sup>, and Kang Xie
+  Lingchun Zhang, Haiming Jiang, Hanyu Cao, Rui Cheng, Junxi Zhang, **Feixiang Du**<sup>*</sup>, and Kang Xie
   Water, 2024, 16(22): 3248
   [[PDF]](https://www.mdpi.com/2073-4441/16/22/3248)
 
