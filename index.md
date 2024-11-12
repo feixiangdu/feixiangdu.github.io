@@ -23,7 +23,7 @@ Email:feixiangdu(AT)tlu(DOT)edu(DOT)cn
 
 * Water Supply Pipeline Failure Evaluation Model Based on Particle Swarm Optimization Neural Network
   Lingchun Zhang, Haiming Jiang, Hanyu Cao, Rui Cheng, Junxi Zhang, **Feixiang Du**<sup>*</sup>, and Kang Xie
-  Water, 2024, 16(22): 3248
+  Water, 2024, 16(22): 3248.
   [[PDF]](https://www.mdpi.com/2073-4441/16/22/3248)
 
 * A dual-branch model for diagnosis of Parkinson’s disease based on the independent and joint features of the left and right gait
