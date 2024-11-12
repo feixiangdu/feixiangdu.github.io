@@ -21,10 +21,15 @@ Email:feixiangdu(AT)tlu(DOT)edu(DOT)cn
   Preprints(2023)   
   [[PDF]](https://www.preprints.org/manuscript/202309.1326/v1)
 
-* Water Supply Pipeline Failure Evaluation Model Based on Particle Swarm Optimization Neural Network
-  Lingchun Zhang, Haiming Jiang, Hanyu Cao, Rui Cheng, Junxi Zhang, **Feixiang Du**<sup>*</sup>, and Kang Xie
-  Water, 2024, 16(22): 3248.
+* Water Supply Pipeline Failure Evaluation Model Based on Particle Swarm Optimization Neural Network   
+  Lingchun Zhang, Haiming Jiang, Hanyu Cao, Rui Cheng, Junxi Zhang, **Feixiang Du**<sup>*</sup>, and Kang Xie   
+  Water, 2024, 16(22): 3248.   
   [[PDF]](https://www.mdpi.com/2073-4441/16/22/3248)
+
+* AuNPs-PDMS Composite Membrane-Based Surface Stress Biosensor for Molecular Detection
+  Dong Zhao, Honglie Chen, Haoyu Wang, Xing Guo, Yang Ge, Jianlong Ji, Shenbo Sang, and **Feixiang Du**<sup>*</sup>    
+  Nano, 2023, 18(13): 2350101.   
+  [[PDF]](https://www.worldscientific.com/doi/abs/10.1142/S1793292023501011)
 
 * A dual-branch model for diagnosis of Parkinson’s disease based on the independent and joint features of the left and right gait
   Xu Liu, Wang Li, Zheng Liu, **Feixiang Du** and Qiang Zou<sup>*</sup>  
